@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="70977" started-at="2019-02-08T09:55:08Z" finished-at="2019-02-08T09:56:19Z">
+    <groups>
+    </groups>
+    <test name="Test1Chrome" duration-ms="36823" started-at="2019-02-08T09:55:08Z" finished-at="2019-02-08T09:55:45Z">
+      <class name="hollaselenium.hollaseleniumday1.TestLoginDemoWebShop">
+        <test-method status="PASS" signature="beforeTest(java.lang.String, org.testng.ITestContext)[pri:0, instance:hollaselenium.hollaseleniumday1.TestLoginDemoWebShop@3532ec19]" name="beforeTest" is-config="true" duration-ms="12470" started-at="2019-02-08T09:55:08Z" finished-at="2019-02-08T09:55:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b09bb57]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:hollaselenium.hollaseleniumday1.TestLoginDemoWebShop@3532ec19]" name="testDemoWebShopLogin" duration-ms="4387" started-at="2019-02-08T09:55:21Z" data-provider="dp1" finished-at="2019-02-08T09:55:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Santhoshregali@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Accenture@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoWebShopLogin -->
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:hollaselenium.hollaseleniumday1.TestLoginDemoWebShop@3532ec19]" name="testDemoWebShopLogin" duration-ms="5179" started-at="2019-02-08T09:55:26Z" data-provider="dp1" finished-at="2019-02-08T09:55:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Santhoshiguggal@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Accenture@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoWebShopLogin -->
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:hollaselenium.hollaseleniumday1.TestLoginDemoWebShop@3532ec19]" name="testDemoWebShopLogin" duration-ms="4380" started-at="2019-02-08T09:55:31Z" data-provider="dp1" finished-at="2019-02-08T09:55:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sudheerpandey@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Accenture@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoWebShopLogin -->
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:hollaselenium.hollaseleniumday1.TestLoginDemoWebShop@3532ec19]" name="testDemoWebShopLogin" duration-ms="4589" started-at="2019-02-08T09:55:35Z" data-provider="dp1" finished-at="2019-02-08T09:55:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Harjotoberoi@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Accenture@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoWebShopLogin -->
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:hollaselenium.hollaseleniumday1.TestLoginDemoWebShop@3532ec19]" name="testDemoWebShopLogin" duration-ms="4351" started-at="2019-02-08T09:55:40Z" data-provider="dp1" finished-at="2019-02-08T09:55:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Navneetsingh@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Accenture@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoWebShopLogin -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestContext)[pri:0, instance:hollaselenium.hollaseleniumday1.TestLoginDemoWebShop@3532ec19]" name="afterTest" is-config="true" duration-ms="444" started-at="2019-02-08T09:55:44Z" finished-at="2019-02-08T09:55:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b09bb57]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- hollaselenium.hollaseleniumday1.TestLoginDemoWebShop -->
+    </test> <!-- Test1Chrome -->
+    <test name="Test1IE" duration-ms="70977" started-at="2019-02-08T09:55:08Z" finished-at="2019-02-08T09:56:19Z">
+      <class name="hollaselenium.hollaseleniumday1.TestLoginDemoWebShop">
+        <test-method status="PASS" signature="beforeTest(java.lang.String, org.testng.ITestContext)[pri:0, instance:hollaselenium.hollaseleniumday1.TestLoginDemoWebShop@4dfa3a9d]" name="beforeTest" is-config="true" duration-ms="11634" started-at="2019-02-08T09:55:08Z" finished-at="2019-02-08T09:55:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ie]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6536e911]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:hollaselenium.hollaseleniumday1.TestLoginDemoWebShop@4dfa3a9d]" name="testDemoWebShopLogin" duration-ms="13630" started-at="2019-02-08T09:55:21Z" data-provider="dp1" finished-at="2019-02-08T09:55:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Santhoshregali@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Accenture@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoWebShopLogin -->
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:hollaselenium.hollaseleniumday1.TestLoginDemoWebShop@4dfa3a9d]" name="testDemoWebShopLogin" duration-ms="15120" started-at="2019-02-08T09:55:35Z" data-provider="dp1" finished-at="2019-02-08T09:55:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Santhoshiguggal@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Accenture@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoWebShopLogin -->
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:hollaselenium.hollaseleniumday1.TestLoginDemoWebShop@4dfa3a9d]" name="testDemoWebShopLogin" duration-ms="10487" started-at="2019-02-08T09:55:50Z" data-provider="dp1" finished-at="2019-02-08T09:56:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sudheerpandey@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Accenture@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoWebShopLogin -->
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:hollaselenium.hollaseleniumday1.TestLoginDemoWebShop@4dfa3a9d]" name="testDemoWebShopLogin" duration-ms="9117" started-at="2019-02-08T09:56:01Z" data-provider="dp1" finished-at="2019-02-08T09:56:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Harjotoberoi@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Accenture@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoWebShopLogin -->
+        <test-method status="PASS" signature="testDemoWebShopLogin(java.lang.String, java.lang.String)[pri:0, instance:hollaselenium.hollaseleniumday1.TestLoginDemoWebShop@4dfa3a9d]" name="testDemoWebShopLogin" duration-ms="9095" started-at="2019-02-08T09:56:10Z" data-provider="dp1" finished-at="2019-02-08T09:56:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Navneetsingh@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Accenture@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDemoWebShopLogin -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestContext)[pri:0, instance:hollaselenium.hollaseleniumday1.TestLoginDemoWebShop@4dfa3a9d]" name="afterTest" is-config="true" duration-ms="21" started-at="2019-02-08T09:56:19Z" finished-at="2019-02-08T09:56:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6536e911]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- hollaselenium.hollaseleniumday1.TestLoginDemoWebShop -->
+    </test> <!-- Test1IE -->
+  </suite> <!-- Suite -->
+</testng-results>
